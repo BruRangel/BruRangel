@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.tenor.com/o1yd5aCUCG8AAAAj/benjamin-the-monikey-hes-from-btds.gif" width="50px"> Hi! I am Bruno Rangel <img src="https://media.tenor.com/o1yd5aCUCG8AAAAj/benjamin-the-monikey-hes-from-btds.gif" width="50px"><br><br></p>
+<h1 align="center"><img src="https://media.tenor.com/o1yd5aCUCG8AAAAj/benjamin-the-monikey-hes-from-btds.gif" width="50px"> Hi! I am Bruno Rangel <img src="https://media.tenor.com/o1yd5aCUCG8AAAAj/benjamin-the-monikey-hes-from-btds.gif" width="50px"><br><br></h1>
 
 
 <div align="center">

@@ -21,7 +21,7 @@
 ### <p align="center"> About me: <br><br></p>
     
 <p align="center"> 
-👨🏾‍💻 | Information Systems student at Universidade de São Paulo | 👨🏾‍💻<br>
+👨‍💻 | Information Systems student at Universidade de São Paulo | 👨‍💻<br>
 
  
     
